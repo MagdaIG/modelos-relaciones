@@ -1,0 +1,21 @@
+{
+  "name": "modelos-relaciones",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de proyectos y tareas con Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node pruebas.js"
+  },
+  "keywords": ["sequelize", "nodejs", "crud"],
+  "author": "Magdalena Inalaf",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.35.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
+
